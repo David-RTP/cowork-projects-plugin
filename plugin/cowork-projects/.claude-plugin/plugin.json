@@ -1,0 +1,16 @@
+{
+  "name": "cowork-projects",
+  "version": "0.33.0",
+  "description": "GitHub-backed project memory for Cowork. Keep every project's decisions, notes, and open questions in YOUR OWN GitHub repo: a /project hub, project-open with a table dashboard, one combined update command (upd) for memory + notes, new-project scaffolding with built-in legacy-chat import, active/archived lists, archive/unarchive, and a one-time /project-setup-init bootstrap of any repo you choose. GitHub is the source of truth; Google Drive optionally holds rich deliverables.",
+  "author": {
+    "name": "David-RTP"
+  },
+  "keywords": [
+    "memory",
+    "github",
+    "projects",
+    "cowork",
+    "archive",
+    "notes"
+  ]
+}

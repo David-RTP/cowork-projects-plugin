@@ -1,0 +1,15 @@
+{
+  "name": "cowork-projects-demo",
+  "version": "0.33.0",
+  "description": "Read-only DEMO of the cowork-projects plugin, built in to the public example repo David-RTP/cowork-projects-examples. Open example projects and notebooks with po, list them with pl, and preview the update command with upd - nothing is ever written. Install the full cowork-projects plugin to use your own repo.",
+  "author": {
+    "name": "David-RTP"
+  },
+  "keywords": [
+    "memory",
+    "github",
+    "projects",
+    "cowork",
+    "demo"
+  ]
+}

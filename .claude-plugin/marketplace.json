@@ -1,0 +1,30 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cowork-projects",
+  "description": "GitHub-backed project memory plugins for Claude Code and Cowork",
+  "owner": {
+    "name": "David-RTP"
+  },
+  "plugins": [
+    {
+      "name": "cowork-projects",
+      "description": "GitHub-backed project memory for Claude Code and Cowork.",
+      "version": "0.33.0",
+      "author": {
+        "name": "David-RTP"
+      },
+      "source": "./plugin/cowork-projects",
+      "category": "productivity"
+    },
+    {
+      "name": "cowork-projects-demo",
+      "description": "Read-only demo of cowork-projects, built in to the public example repo.",
+      "version": "0.33.0",
+      "author": {
+        "name": "David-RTP"
+      },
+      "source": "./plugin/cowork-projects-demo",
+      "category": "productivity"
+    }
+  ]
+}

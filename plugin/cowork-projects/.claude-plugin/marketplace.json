@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cowork-projects-mkt",
+  "description": "Self-contained marketplace for the cowork-projects plugin",
+  "owner": {
+    "name": "David-RTP"
+  },
+  "plugins": [
+    {
+      "name": "cowork-projects",
+      "description": "GitHub-backed project memory: /project hub, project-open dashboard, one combined update command (upd) for memory + notes, new-project scaffolding with legacy-chat import, active/archived lists, and a one-time /project-setup-init bootstrap.",
+      "version": "0.33.0",
+      "author": {
+        "name": "David-RTP"
+      },
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
